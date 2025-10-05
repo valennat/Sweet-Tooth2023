@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f84d418971c69a74c88d40c5371708ec, type: 3}
+  m_Name: Rojo
+  m_EditorClassIdentifier: 
+  sprite: {fileID: 1741683983, guid: f411edf64ed84db42a8c971d5b82d6ad, type: 3}
+  animacion: {fileID: 7400000, guid: 67e6824395abc114385d6961fe733f25, type: 2}
+  puntos: 0
+  acariado: 1
